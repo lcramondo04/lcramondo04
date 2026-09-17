@@ -14,6 +14,9 @@ Developed 3D computational models of *Physcomitrium patens* cell walls using Spi
 **[Cell Wall Mechanics in Tip-Growing *P. patens*](https://github.com/lcramondo04/patens-tip-growth-mechanics)**
 Vidali Lab, WPI — 3D computational modeling and pH/elasticity analysis of moss cell walls.
 
+**[Comparing the Venom Proteins of Phylogenetically Close and Distant Species](https://github.com/lcramondo04/venom-antivenom-binding-specificity)**
+Bioinformatics & Computational Biology, WPI — AlphaFold Multimer, HADDOCK, and Rosetta docking analysis of antivenom cross-species binding specificity.
+
 ## 📌 Featured Projects
 
 **[Team T.I.L.E.D.](https://github.com/lcramondo04/Team-T.I.L.E.D.)**
