@@ -22,6 +22,9 @@ Bioinformatics & Computational Biology, WPI — AlphaFold Multimer, HADDOCK, and
 **[Team T.I.L.E.D.](https://github.com/lcramondo04/Team-T.I.L.E.D.)**
 Developed with the team Teach, Empower, Develop, Learn and Inspire (TILED). This project analyzes and predicts financial success using demographic and socioeconomic data from the Adult Census Income dataset (UCI/Kaggle).
 
+**[SARS-CoV-2 Membrane Protein 7Y9B: Drug Target Investigation](https://github.com/lcramondo04/sars-cov2-membrane-protein-target)**
+WPI — Sequence conservation analysis identifying an allosteric drug target on the SARS-CoV-2 membrane protein.
+
 ## 🛠️ Skills & Tools
 
 `Python` `MATLAB` `Java` `Fiji / ImageJ`
